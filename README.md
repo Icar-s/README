@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-My name is **Icaro Ryan**, and I'm a beginner **front-end developer** from 🇧🇷 **Brazil**.  
+My name is **Icaro Ryan**, and I'm a **back-end developer** from 🇧🇷 **Brazil**.  
 I am passionate about learning new technologies and turning ideas into reality through code.  
 
 ---
@@ -13,15 +13,14 @@ I am passionate about learning new technologies and turning ideas into reality t
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-🔎 I'm currently learning **ReactJS** and diving deeper into **responsive design**.  
-📚 Exploring **UI/UX principles** to create user-friendly web applications.
+🔎 I'm currently learning **C** and diving deeper into **Database**.  
 
 ---
 
 ## 🌐 Connect with Me
 
 - 📧 Email: [icaro2007ryan@gmail.com](mailto:your-email@example.com)  
-- 🌐 Portfolio: [Coming Soon 🚀]
+- 🌐 Portfolio: [Coming Soon]
 
 ---
 
